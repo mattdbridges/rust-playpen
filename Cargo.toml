@@ -1,0 +1,8 @@
+[package]
+name = "rust-playpen"
+version = "0.1.0"
+authors = ["Matt Bridges <mbridges.91@gmail.com>"]
+
+[dependencies]
+
+rand="0.3.0"
